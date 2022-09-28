@@ -23,7 +23,7 @@ MonoBehaviour:
   m_TrackedImageDiscoveryParams:
     m_TrackingUpdateInterval: 0.1
   m_PlaneFindingParams:
-    m_MinimumPlaneUpdateTime: 0.2
+    m_MinimumPlaneUpdateTime: 0.1
     m_MinPointsPerSqMeter: 600
     m_MinSideLength: 0.15
     m_InLayerMergeDistance: 0.2
